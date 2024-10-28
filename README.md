@@ -5,7 +5,7 @@
 
 - 🔭 My most recent project is [Bert-uncased-FineTuning](https://github.com/Tanmayxpawar/Bert_uncased_FineTuning)
 
-- 🌱 I’m currently learning **State-of-the-art Models**
+- 🌱 I’m currently learning about **State-of-the-art Models**
 
 - 🔭 I have also built a [RAG_LLM](https://github.com/Tanmayxpawar/RAG-with-Gemini-)
 
