@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmayxpawar?tab=repositories](https://github.com/Tanmayxpawar?tab=repositories)
 
-- 📫 How to reach me **pawartanmay95@gmai;.com**
+- 📫 Reach me at **pawartanmay95@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
