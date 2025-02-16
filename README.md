@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayxpawar&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayxpawar" /> </p>
 
-- 🔭 My most recent project is [Bert-uncased-FineTuning](https://github.com/Tanmayxpawar/Bert_uncased_FineTuning)
+- 🔭 My most recent project is [Competitive_Intelligence_System](https://github.com/Tanmayxpawar/Competitive_Intelligence_System)
 
 - 🌱 I’m currently learning about **State-of-the-art Models**
 
